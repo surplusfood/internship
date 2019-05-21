@@ -1,6 +1,6 @@
 # [Surplus](https://www.linkedin.com/company/surplusfoods/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](#) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
 
-Surplus is an application that prevents restaurants from losing money due to food waste and focuses on high food insecurity rates amongst college students
+Surplus is an application that prevents restaurants from losing money due to food waste and focuses on high food insecurity rates amongst college students.
 
 LinkedIn: https://www.linkedin.com/company/surplusfoods/
 
